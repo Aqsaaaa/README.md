@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Aqsa.</h2>
+<h2> Hey there! I'm Muhammad Cendekia Rayhan Qibran AKA Aqsa.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -41,7 +41,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/_aqsakjo/"><img alt="Instagram"></a>
+<a href="https://www.instagram.com/aqsakjo_/"><img alt="Instagram"></a>
 <a href="mailto:cendekiaqsa@gmail.com"><img alt="Email" ></a>
 </p>
 
