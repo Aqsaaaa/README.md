@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information System at TELKOM UNIVERSITY.
-- 🌱 &nbsp; Learning more about Fullstack Dev, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Fullstack Dev and Mobile Dev.
 - ✍️ &nbsp; Pursuing Coding as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
