@@ -27,10 +27,7 @@
 
 <br/>
 
-<a href="https://github.com/Aqsaaaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aqsaaaa&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqsaaaa&theme=buefy&layout=compact%22" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aqsaaaa&layout=donut-vertical)](https://github.com/Aqsaaaa/github-readme-stats)
 
 <br/>
 
