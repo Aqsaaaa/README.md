@@ -36,8 +36,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/aqsakjo_/"><img alt="Instagram"></a>
-<a href="mailto:cendekiaqsa@gmail.com"><img alt="Email" ></a>
+<a href="https://www.instagram.com/aqsakjo_/"><img alt="https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram"></a>
+<a href="mailto:cendekiaqsa@gmail.com"><img alt="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail" ></a>
 </p>
 
 ⭐️ From [Aqsaaaa](https://github.com/Aqsaaaa)
