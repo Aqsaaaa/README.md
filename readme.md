@@ -12,14 +12,13 @@
 <h2 align="center"> 🔧 Languages and Tools</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutterlutter/flutter-original.svg" alt="Flutter" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="java" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg" alt="react" width="50" height="50"/> 
   <img src="https://user-images.githubusercontent.com/95999134/153581286-a2c75f9f-8257-461d-8cdd-12077ac061c6.png" alt="intellij-idea" width="50" height="50"/> 
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" width="50" height="50"/> </p>
 
 </div>
 <br>
