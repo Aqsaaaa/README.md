@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information System at TELKOM UNIVERSITY.
-- 🌱 &nbsp; Learning more about Fullstack Dev and Mobile Dev.
+- 🌱 &nbsp; Learning more about and Mobile Dev.
 - ✍️ &nbsp; Pursuing Coding as hobbies/side hustles.
 
 <div>
@@ -15,10 +15,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="java" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg" alt="react" width="50" height="50"/> 
-  <img src="https://user-images.githubusercontent.com/95999134/153581286-a2c75f9f-8257-461d-8cdd-12077ac061c6.png" alt="intellij-idea" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>  
 
 </div>
 <br>
