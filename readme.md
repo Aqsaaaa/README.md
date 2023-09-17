@@ -17,11 +17,8 @@
   <a href="mailto:cendekiaqsa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/muhammad-cendekia-rayhan-qibran" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://Aqsaaaa.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -30,8 +27,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,github,python,javascript,express,figma,git" /><br>
-    <img src="https://skillicons.dev/icons?i=react,dart,bootstrap,mysql,html,css,vscode" />
+    <img src="https://skillicons.dev/icons?i=flutter,github,python,javascript,figma,git,postman,cs" /><br>
+    <img src="https://skillicons.dev/icons?i=dart,bootstrap,mysql,html,css,vscode,visualstudio,linux" />
 </div>
 
 <br/>
